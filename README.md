@@ -1,5 +1,5 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: MOHAMED JEBIN RAJ J</h3>
+<h3>Name: JEBIN RAJ J</h3>
 <h3>Register Number: 212224030012</h3>
 <H3>Aim:</H3>
 <p>
